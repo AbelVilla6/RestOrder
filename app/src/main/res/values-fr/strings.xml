@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestOrder</string>
+
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="action_settings">Ajustements</string>
+
+    <string name="menu_home">Accueil</string>
+    <string name="menu_gallery">Galerie</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="restorder">RestOrder</string>
+    <string name="welcome_to_restorder">¡ Bienvenue à  RestOrder !</string>
+    <string name="please_select_an_option">Veuillez sélectionner une option :</string>
+    <string name="sign_in"><u>Registre</u></string>
+    <string name="full_name">Nom complet</string>
+    <string name="email_address">Adresse électronique </string>
+    <string name="password">Mot de passe</string>
+    <string name="log_in"><u>Connexion</u></string>
+    <string name="log_out"><u>Déconnexion</u></string>
+    <string name="number_of_reservation">Numéro de réservation</string>
+    <string name="table_number">Numéro de table</string>
+    <string name="selectedLanguage">Français</string>
+    <string name="language">Sélectionnez une langue</string>
+    <string name="waiter">SAUTEUR</string>
+    <string name="customer">CLIENT</string>
+
+    <string name="introduce_the_code_of_your_reservation">Entrez votre numéro de réservation :</string>
+    <string name="cancel_a_reservation">ANNULER LA RÉSERVATION</string>
+    <string name="set_device_in_table">Placez l´appareil sur la table</string>
+    <string name="select_number_of_table">Sélectionnez le numéro de la table:</string>
+    <string name="party_of_how_many">Capacité de la table ?</string>
+    <string name="set_table">METTRE EN PLACBienvenue !E LA TABLE</string>
+    <string name="log_in_customer">LOGIN CLIENT</string>
+    <string name="log_inC">CONNECTEZ-VOUS</string>
+    <string name="don_t_have_an_account_yet">Vous n´avez pas encore de compte ?</string>
+    <string name="log_in_waiter">LOGIN WAITER</string>
+    <string name="welcome_back">Bon retour !</string>
+    <string name="what_do_you_want_to_do">Que voulez-vous faire ?</string>
+    <string name="make_a_reservation">FAIRE UNE RÉSERVATION</string>
+    <string name="set_device_in_tableC">PLACER LE DISPOSITIF SUR LA TABLE</string>
+    <string name="manage_restaurant">GÉRER UN RESTAURANT</string>
+    <string name="create_new_account">CRÉER UN NOUVEAU COMPTE</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="already_registered">Vous êtes déjà inscrit ?</string>
+    <string name="next">SUIVANT</string>
+    <string name="log_in_using_fingerprint"><u>Connexion avec Footprint</u></string>
+    <string name="user_name">Nom de l´utilisateur</string>
+</resources>

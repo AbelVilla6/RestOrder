@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">RestOrder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="restorder">RestOrder</string>
+    <string name="welcome_to_restorder">Welcome to RestOrder !</string>
+    <string name="please_select_an_option">Please, select an option:</string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="log_in"><u>Log In</u></string>
+    <string name="log_out"><u>Log Out</u></string>
+    <string name="number_of_reservation">Number of Reservation</string>
+    <string name="table_number">Table Number</string>
+    <string name="selectedLanguage">English</string>
+    <string name="language">Select a language</string>
+    <string name="waiter">WAITER</string>
+    <string name="customer">CUSTOMER</string>
+    <string name="next">NEXT</string>
+    <string name="introduce_the_code_of_your_reservation">Introduce the code of your reservation:</string>
+    <string name="cancel_a_reservation">CANCEL A RESERVATION</string>
+    <string name="set_device_in_table">Set Device in Table</string>
+    <string name="select_number_of_table">Select number of table:</string>
+    <string name="party_of_how_many">Party of how many?</string>
+    <string name="set_table">SET TABLE</string>
+    <string name="log_in_customer">LOG IN CUSTOMER</string>
+    <string name="log_inC">LOG IN</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="log_in_waiter">LOG IN WAITER</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="what_do_you_want_to_do">What do you want to do?:</string>
+    <string name="make_a_reservation">MAKE A RESERVATION</string>
+    <string name="set_device_in_tableC">SET DEVICE IN TABLE</string>
+    <string name="manage_restaurant">MANAGE RESTAURANT</string>
+    <string name="create_new_account">CREATE NEW ACCOUNT</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="log_in_using_fingerprint"><u>Log in using FingerPrint</u></string>
+    <string name="user_name">User Name</string>
+
+
+</resources>

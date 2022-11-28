@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestOrder</string>
+
+    <string name="navigation_drawer_open">Aprire il cassetto di navigazione</string>
+    <string name="navigation_drawer_close">Chiudere il cassetto di navigazione</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Intestazione della navigazione</string>
+    <string name="action_settings">Regolazioni</string>
+
+    <string name="menu_home">Casa</string>
+    <string name="menu_gallery">Galleria</string>
+    <string name="menu_slideshow">Presentazione</string>
+    <string name="restorder">RestOrder</string>
+    <string name="welcome_to_restorder">¡ Benvenuti a RestOrder !</string>
+    <string name="please_select_an_option">Selezionare un´opzione:</string>
+    <string name="sign_in"><u>Registro</u></string>
+    <string name="full_name">Nome e cognome</string>
+    <string name="email_address">Indirizzo e-mail </string>
+    <string name="password">Password</string>
+    <string name="log_in"><u>Accesso</u></string>
+    <string name="log_out"><u>Disconnettersi</u></string>
+    <string name="number_of_reservation">Numero di prenotazione</string>
+    <string name="table_number">Numero della tabella</string>
+    <string name="selectedLanguage">Italiano</string>
+    <string name="language">Selezionare una lingua</string>
+    <string name="waiter">CAMERIERE</string>
+    <string name="customer">CLIENTE</string>
+
+    <string name="introduce_the_code_of_your_reservation">Inserire il numero di prenotazione:</string>
+    <string name="cancel_a_reservation">ANNULLAMENTO DELLA PRENOTAZIONE</string>
+    <string name="set_device_in_table">Posizionare il dispositivo sul tavolo</string>
+    <string name="select_number_of_table">Selezionare il numero della tabella:</string>
+    <string name="party_of_how_many">Capacità del tavolo?</string>
+    <string name="set_table">ALLESTIRE IL TAVOLO</string>
+    <string name="log_in_customer">ACCESSO DEL CLIENTE</string>
+    <string name="log_inC">ACCEDI</string>
+    <string name="don_t_have_an_account_yet">Non avete ancora un account?</string>
+    <string name="log_in_waiter">ASSISTENTE ALL´ACCESSO</string>
+    <string name="welcome_back">Bentornati!</string>
+    <string name="what_do_you_want_to_do">Cosa vuoi fare?</string>
+    <string name="make_a_reservation">EFFETTUARE UNA PRENOTAZIONE</string>
+    <string name="set_device_in_tableC">POSIZIONARE IL DISPOSITIVO SUL TAVOLO</string>
+    <string name="manage_restaurant">GESTIRE UN RISTORANTE</string>
+    <string name="create_new_account">CREARE UN NUOVO ACCOUNT</string>
+    <string name="create_account">Creare un account</string>
+    <string name="already_registered">Siete già registrati?</string>
+    <string name="next">AVANTI</string>
+    <string name="log_in_using_fingerprint"><u>Accesso con Footprint</u></string>
+    <string name="user_name">Nome utente</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77785305781",
+    "project_id": "restorder-6681f",
+    "storage_bucket": "restorder-6681f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77785305781:android:bd167b842ba1553541e4fc",
+        "android_client_info": {
+          "package_name": "com.example.restorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77785305781-tmrtakno57dlfiiahecquveg61jh4jrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkJSyIy3EmXsAMuYstffMLrrK4fBYckQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77785305781-tmrtakno57dlfiiahecquveg61jh4jrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestOrder</string>
+
+    <string name="navigation_drawer_open">Abrir drawer de Navegación</string>
+    <string name="navigation_drawer_close">Cerrar drawer de Navegación</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Encabezado de Navegación</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="restorder">RestOrder</string>
+    <string name="welcome_to_restorder">¡ Bienvenido a RestOrder !</string>
+    <string name="please_select_an_option">Por favor, selecciona una opción:</string>
+    <string name="sign_in"><u>Registrarse</u></string>
+    <string name="full_name">Nombre Completo</string>
+    <string name="email_address">Correo Email </string>
+    <string name="password">Contraseña</string>
+    <string name="log_in"><u>Iniciar Sesión</u></string>
+    <string name="log_out"><u>Cerrar Sesión</u></string>
+    <string name="number_of_reservation">Número de Reserva</string>
+    <string name="table_number">Número de Mesa</string>
+    <string name="selectedLanguage">Español</string>
+    <string name="language">Selecciona un idioma</string>
+    <string name="waiter">CAMARERO</string>
+    <string name="customer">CLIENTE</string>
+
+    <string name="introduce_the_code_of_your_reservation">Introduce el número de tu reserva:</string>
+    <string name="cancel_a_reservation">CANCELAR RESERVA</string>
+    <string name="set_device_in_table">Colocar Dispositivo en Mesa</string>
+    <string name="select_number_of_table">Selecciona el número de mesa:</string>
+    <string name="party_of_how_many">¿Capacidad de la mesa?</string>
+    <string name="set_table">CONFIGURAR MESA</string>
+    <string name="log_in_customer">INICIO SESIÓN DE CLIENTE</string>
+    <string name="log_inC">INICIAR SESIÓN</string>
+    <string name="don_t_have_an_account_yet">¿Aún no tienes una cuenta?</string>
+    <string name="log_in_waiter">INICIO SESIÓN CAMARERO</string>
+    <string name="welcome_back">¡Bienvenido de nuevo!</string>
+    <string name="what_do_you_want_to_do">¿Qué quieres hacer?</string>
+    <string name="make_a_reservation">HACER UNA RESERVA</string>
+    <string name="set_device_in_tableC">COLOCAR DISPOSITIVO EN MESA</string>
+    <string name="manage_restaurant">GESTIONAR RESTAURANTE</string>
+    <string name="create_new_account">CREAR CUENTA NUEVA</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="already_registered">¿Ya estás registrado?</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="log_in_using_fingerprint"><u>Iniciar sesión con Huella</u></string>
+    <string name="user_name">Nombre de Usuario</string>
+</resources>
